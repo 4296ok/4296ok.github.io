@@ -17,6 +17,7 @@ video {
 .navigation {
   font-size: 21px;
   font-family: 'LincolnMITRE-LM7x9', sans-serif;
+  src: url("LincolnSlashMITRE/LincolnMITRE-LM7x9.otf");
   bottom: 0;
   width: 100%;
   position: absolute;
